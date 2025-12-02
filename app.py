@@ -153,7 +153,7 @@ HTML_INDEX = """
     </ul>
 
     <p class="text-muted mt-3" style="font-size: 0.85rem;">
-        Desarrollado en Python + Flask.
+        Desarrollado en Python + Flask por Wilber Morales Mora
     </p>
 </div>
 
